@@ -1,5 +1,0 @@
-
-
-
-// Starting JS Tutorial
-
