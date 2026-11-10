@@ -1,29 +1,13 @@
-// let value = 3
+// console.log("02" > 1);
 
-// let negValue = -value
-
-// let g = -(value+3)
-
-// console.log(negValue);
-
-// console.log(g);
-
-
-// console.log(2+2);
+// console.log(null > 0);
+// console.log(null < 0);
+// console.log(null == 0);
+// console.log(null >= 0);
 
 
 
-// let str1 = "Hello"
+// console.log(undefined == 0);
 
-// let str2 = " Bulbul"
 
-// console.log(str1+str2);
-
-// console.log("1" + 2 + 2);
-
-// console.log(+true);
-
-let gameCounter  = 100
-
-++gameCounter
-console.log(gameCounter);
+console.log("2" === 2);
